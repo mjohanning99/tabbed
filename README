@@ -1,5 +1,8 @@
-tabbed - generic tabbed interface
+My version of tabbed 
 =================================
+This is my version of tabbed which has been modified to include support for the Vimb browser and which has a few modified keybindings.
+Below you will find the original README of this program.
+
 tabbed is a simple tabbed X window container.
 
 Requirements
